@@ -1,0 +1,50 @@
+body{
+	background-color: 	#dfe7e9;
+    width:100%;
+	height:100%;
+}
+footer{
+	clear: booth;
+	text-align: center ;
+	height: 50px
+	padding: 10px;
+	color: black;
+}
+
+
+.conteiner{
+	width: 565px;
+	margin: 0 auto;
+}
+.card{
+	box-shadow: 1px 1px 5px;
+	padding: 67px;
+	border-radius: 40px;
+	color: black;
+}
+.form{
+	width: 266px;
+	margin: auto;
+	padding-top: 768px;
+}
+
+.card-grup > button{
+	width: 100%;
+	border-radius: 30px;
+	padding: 6px;
+	opacity: 8,2;	
+}
+
+#logo{
+	max-width: 200px;
+	max-height: 150px;
+	width: auto;
+	height: auto;
+	margin: 45px 68px -73px
+	background-image: url("/Users/YAGO/Desktop/Projeto SITECV/imagens/yc.png");
+}	
+
+
+
+
+
